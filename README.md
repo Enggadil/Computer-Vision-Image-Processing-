@@ -1,5 +1,5 @@
 # Computer-Vision-Image-Processing-
-, I learned how to apply basic image algebra operations using Python and OpenCV. Images are represented as pixel matrices, and we can perform mathematical operations on them directly.
+I learned how to apply basic image algebra operations using Python and OpenCV. Images are represented as pixel matrices, and we can perform mathematical operations on them directly.
 
 1.	Loading Images
 o	Used cv2.imread() to load standard test images (Lena).
